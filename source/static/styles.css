@@ -1,0 +1,67 @@
+textarea {
+    width: 500px;
+    height: 750px;
+    resize: none;
+    overflow: hidden;
+}
+
+#api_key {
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#textbox_div {
+    margin-top: 30px;
+}
+
+#input_div {
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+#submit_button {
+    margin-top: 20px;
+}
+
+#input_label {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#output_div {
+    vertical-align: top;
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+#output_label {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.accordion {
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: top;
+    width: 35%;
+}
+
+#accordion_label {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#light-mode-button {
+    float: right;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+
+#dark-mode-button {
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+}
